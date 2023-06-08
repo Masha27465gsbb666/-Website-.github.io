@@ -7,8 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="./style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
-    <title>ФAZART</title>
-</head>
+    </head>
 <body>
     <menu class="menu">
         <div class="container">
@@ -26,19 +25,8 @@
                 <button class="burger-btn"></button>
                 <button class="burger-btn-close"></button>
             </div>
-        </div>
-    </menu>
-    <burger class="burger">
-        <div class="container">
-            <nav class="burger__menu-nav">
-                <ul class="burger__menu-list">
-                    <li><a class="burger__menu-item" href="#header">Обо мне</a></li>
-                    <li><a class="burger__menu-item" href="#portfolio">Мои работы</a></li>
-                    <li><a class="burger__menu-item" href="#contact">Контакты</a></li>
-                </ul>
-            </nav>
-        </div>
-    </burger>
+    
+   </burger>
     <hr class="menu-hr">
     <header class="header" id="header">
         <div class="container">
@@ -115,6 +103,6 @@
             </div>
         </section>
     </footer>
-<script src="./main.js"></script>
 </body>
 </html>
+    
